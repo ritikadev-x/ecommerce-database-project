@@ -1,0 +1,3 @@
+CREATE DATABASE EcommerceDB;
+USE EcommerceDB;
+
