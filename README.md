@@ -83,6 +83,17 @@ The project includes SQL queries to analyze:
 
 ---
 
+## 📸 Project Screenshots
+
+### Top Customers
+![Top Customers](screenshots/top_customers.png)
+
+### Revenue by Product
+![Revenue by Product](screenshots/revenue_by_product.png)
+
+### Best Selling Products
+![Best Selling Products](screenshots/best_selling_products.png)
+
 ## 👩‍💻 Author
 
 **Ritika**
